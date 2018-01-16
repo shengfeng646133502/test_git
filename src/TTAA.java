@@ -2,7 +2,8 @@
 public class TTAA {
 
 	public static void main(String[] args) {
-		System.out.println("Test BBB");
+		System.out.println("TestA");
 	}
 	
 }
+
